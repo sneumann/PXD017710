@@ -1,0 +1,265 @@
+rowid	ccms_row_id	_dyn_#Dataset	_dyn_#Run					_dyn_#Cohort	_dyn_#Subject	_dyn_#Condition	_dyn_#TimePoint	_dyn_#BioReplicate	_dyn_#Experiment	_dyn_#Mixture	_dyn_#TechRepMixture	_dyn_#Batch	_dyn_#Channel	_dyn_#Fraction	_dyn_#Species	_dyn_#Disease	_dyn_#Tissue	_dyn_#Enzyme	_dyn_#Notes	id
+4	4	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F1.mzML	pool1	Control	10h	1	Control 10h		Control 10h	10h	1	1	1	1		128N	1						0
+15	15	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F2.mzML	pool1	Control	10h	1	Control 10h		Control 10h	10h	1	1	1	1		128N	2						1
+26	26	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F3.mzML	pool1	Control	10h	1	Control 10h		Control 10h	10h	1	1	1	1		128N	3						2
+37	37	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F4.mzML	pool1	Control	10h	1	Control 10h		Control 10h	10h	1	1	1	1		128N	4						3
+48	48	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F5.mzML	pool1	Control	10h	1	Control 10h		Control 10h	10h	1	1	1	1		128N	5						4
+59	59	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F6.mzML	pool1	Control	10h	1	Control 10h		Control 10h	10h	1	1	1	1		128N	6						5
+70	70	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F7.mzML	pool1	Control	10h	1	Control 10h		Control 10h	10h	1	1	1	1		128N	7						6
+81	81	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F8.mzML	pool1	Control	10h	1	Control 10h		Control 10h	10h	1	1	1	1		128N	8						7
+92	92	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F1.mzML	pool2	Control	10h	2	Control 10h		Control 10h	10h	2	1	2	1		128N	1						8
+103	103	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F2.mzML	pool2	Control	10h	2	Control 10h		Control 10h	10h	2	1	2	1		128N	2						9
+114	114	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F3.mzML	pool2	Control	10h	2	Control 10h		Control 10h	10h	2	1	2	1		128N	3						10
+125	125	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F4.mzML	pool2	Control	10h	2	Control 10h		Control 10h	10h	2	1	2	1		128N	4						11
+136	136	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F5.mzML	pool2	Control	10h	2	Control 10h		Control 10h	10h	2	1	2	1		128N	5						12
+147	147	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F6.mzML	pool2	Control	10h	2	Control 10h		Control 10h	10h	2	1	2	1		128N	6						13
+158	158	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F7.mzML	pool2	Control	10h	2	Control 10h		Control 10h	10h	2	1	2	1		128N	7						14
+169	169	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F8.mzML	pool2	Control	10h	2	Control 10h		Control 10h	10h	2	1	2	1		128N	8						15
+180	180	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F1.mzML	pool3	Control	10h	3	Control 10h		Control 10h	10h	3	1	3	1		128N	1						16
+191	191	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F2.mzML	pool3	Control	10h	3	Control 10h		Control 10h	10h	3	1	3	1		128N	2						17
+202	202	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F3.mzML	pool3	Control	10h	3	Control 10h		Control 10h	10h	3	1	3	1		128N	3						18
+213	213	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F4.mzML	pool3	Control	10h	3	Control 10h		Control 10h	10h	3	1	3	1		128N	4						19
+224	224	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F5.mzML	pool3	Control	10h	3	Control 10h		Control 10h	10h	3	1	3	1		128N	5						20
+235	235	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F6.mzML	pool3	Control	10h	3	Control 10h		Control 10h	10h	3	1	3	1		128N	6						21
+246	246	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F7.mzML	pool3	Control	10h	3	Control 10h		Control 10h	10h	3	1	3	1		128N	7						22
+257	257	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F8.mzML	pool3	Control	10h	3	Control 10h		Control 10h	10h	3	1	3	1		128N	8						23
+5	5	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F1.mzML	pool1	Control	24h	1	Control 24h		Control 24h	24h	1	1	1	1		128C	1						24
+16	16	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F2.mzML	pool1	Control	24h	1	Control 24h		Control 24h	24h	1	1	1	1		128C	2						25
+27	27	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F3.mzML	pool1	Control	24h	1	Control 24h		Control 24h	24h	1	1	1	1		128C	3						26
+38	38	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F4.mzML	pool1	Control	24h	1	Control 24h		Control 24h	24h	1	1	1	1		128C	4						27
+49	49	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F5.mzML	pool1	Control	24h	1	Control 24h		Control 24h	24h	1	1	1	1		128C	5						28
+60	60	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F6.mzML	pool1	Control	24h	1	Control 24h		Control 24h	24h	1	1	1	1		128C	6						29
+71	71	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F7.mzML	pool1	Control	24h	1	Control 24h		Control 24h	24h	1	1	1	1		128C	7						30
+82	82	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F8.mzML	pool1	Control	24h	1	Control 24h		Control 24h	24h	1	1	1	1		128C	8						31
+93	93	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F1.mzML	pool2	Control	24h	2	Control 24h		Control 24h	24h	2	1	2	1		128C	1						32
+104	104	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F2.mzML	pool2	Control	24h	2	Control 24h		Control 24h	24h	2	1	2	1		128C	2						33
+115	115	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F3.mzML	pool2	Control	24h	2	Control 24h		Control 24h	24h	2	1	2	1		128C	3						34
+126	126	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F4.mzML	pool2	Control	24h	2	Control 24h		Control 24h	24h	2	1	2	1		128C	4						35
+137	137	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F5.mzML	pool2	Control	24h	2	Control 24h		Control 24h	24h	2	1	2	1		128C	5						36
+148	148	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F6.mzML	pool2	Control	24h	2	Control 24h		Control 24h	24h	2	1	2	1		128C	6						37
+159	159	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F7.mzML	pool2	Control	24h	2	Control 24h		Control 24h	24h	2	1	2	1		128C	7						38
+170	170	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F8.mzML	pool2	Control	24h	2	Control 24h		Control 24h	24h	2	1	2	1		128C	8						39
+181	181	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F1.mzML	pool3	Control	24h	3	Control 24h		Control 24h	24h	3	1	3	1		128C	1						40
+192	192	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F2.mzML	pool3	Control	24h	3	Control 24h		Control 24h	24h	3	1	3	1		128C	2						41
+203	203	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F3.mzML	pool3	Control	24h	3	Control 24h		Control 24h	24h	3	1	3	1		128C	3						42
+214	214	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F4.mzML	pool3	Control	24h	3	Control 24h		Control 24h	24h	3	1	3	1		128C	4						43
+225	225	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F5.mzML	pool3	Control	24h	3	Control 24h		Control 24h	24h	3	1	3	1		128C	5						44
+236	236	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F6.mzML	pool3	Control	24h	3	Control 24h		Control 24h	24h	3	1	3	1		128C	6						45
+247	247	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F7.mzML	pool3	Control	24h	3	Control 24h		Control 24h	24h	3	1	3	1		128C	7						46
+258	258	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F8.mzML	pool3	Control	24h	3	Control 24h		Control 24h	24h	3	1	3	1		128C	8						47
+2	2	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F1.mzML	pool1	Control	2h	1	Control 2h		Control 2h	2h	1	1	1	1		127N	1						48
+13	13	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F2.mzML	pool1	Control	2h	1	Control 2h		Control 2h	2h	1	1	1	1		127N	2						49
+24	24	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F3.mzML	pool1	Control	2h	1	Control 2h		Control 2h	2h	1	1	1	1		127N	3						50
+35	35	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F4.mzML	pool1	Control	2h	1	Control 2h		Control 2h	2h	1	1	1	1		127N	4						51
+46	46	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F5.mzML	pool1	Control	2h	1	Control 2h		Control 2h	2h	1	1	1	1		127N	5						52
+57	57	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F6.mzML	pool1	Control	2h	1	Control 2h		Control 2h	2h	1	1	1	1		127N	6						53
+68	68	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F7.mzML	pool1	Control	2h	1	Control 2h		Control 2h	2h	1	1	1	1		127N	7						54
+79	79	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F8.mzML	pool1	Control	2h	1	Control 2h		Control 2h	2h	1	1	1	1		127N	8						55
+90	90	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F1.mzML	pool2	Control	2h	2	Control 2h		Control 2h	2h	2	1	2	1		127N	1						56
+101	101	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F2.mzML	pool2	Control	2h	2	Control 2h		Control 2h	2h	2	1	2	1		127N	2						57
+112	112	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F3.mzML	pool2	Control	2h	2	Control 2h		Control 2h	2h	2	1	2	1		127N	3						58
+123	123	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F4.mzML	pool2	Control	2h	2	Control 2h		Control 2h	2h	2	1	2	1		127N	4						59
+134	134	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F5.mzML	pool2	Control	2h	2	Control 2h		Control 2h	2h	2	1	2	1		127N	5						60
+145	145	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F6.mzML	pool2	Control	2h	2	Control 2h		Control 2h	2h	2	1	2	1		127N	6						61
+156	156	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F7.mzML	pool2	Control	2h	2	Control 2h		Control 2h	2h	2	1	2	1		127N	7						62
+167	167	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F8.mzML	pool2	Control	2h	2	Control 2h		Control 2h	2h	2	1	2	1		127N	8						63
+178	178	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F1.mzML	pool3	Control	2h	3	Control 2h		Control 2h	2h	3	1	3	1		127N	1						64
+189	189	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F2.mzML	pool3	Control	2h	3	Control 2h		Control 2h	2h	3	1	3	1		127N	2						65
+200	200	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F3.mzML	pool3	Control	2h	3	Control 2h		Control 2h	2h	3	1	3	1		127N	3						66
+211	211	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F4.mzML	pool3	Control	2h	3	Control 2h		Control 2h	2h	3	1	3	1		127N	4						67
+222	222	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F5.mzML	pool3	Control	2h	3	Control 2h		Control 2h	2h	3	1	3	1		127N	5						68
+233	233	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F6.mzML	pool3	Control	2h	3	Control 2h		Control 2h	2h	3	1	3	1		127N	6						69
+244	244	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F7.mzML	pool3	Control	2h	3	Control 2h		Control 2h	2h	3	1	3	1		127N	7						70
+255	255	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F8.mzML	pool3	Control	2h	3	Control 2h		Control 2h	2h	3	1	3	1		127N	8						71
+3	3	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F1.mzML	pool1	Control	6h	1	Control 6h		Control 6h	6h	1	1	1	1		127C	1						72
+14	14	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F2.mzML	pool1	Control	6h	1	Control 6h		Control 6h	6h	1	1	1	1		127C	2						73
+25	25	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F3.mzML	pool1	Control	6h	1	Control 6h		Control 6h	6h	1	1	1	1		127C	3						74
+36	36	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F4.mzML	pool1	Control	6h	1	Control 6h		Control 6h	6h	1	1	1	1		127C	4						75
+47	47	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F5.mzML	pool1	Control	6h	1	Control 6h		Control 6h	6h	1	1	1	1		127C	5						76
+58	58	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F6.mzML	pool1	Control	6h	1	Control 6h		Control 6h	6h	1	1	1	1		127C	6						77
+69	69	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F7.mzML	pool1	Control	6h	1	Control 6h		Control 6h	6h	1	1	1	1		127C	7						78
+80	80	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F8.mzML	pool1	Control	6h	1	Control 6h		Control 6h	6h	1	1	1	1		127C	8						79
+91	91	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F1.mzML	pool2	Control	6h	2	Control 6h		Control 6h	6h	2	1	2	1		127C	1						80
+102	102	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F2.mzML	pool2	Control	6h	2	Control 6h		Control 6h	6h	2	1	2	1		127C	2						81
+113	113	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F3.mzML	pool2	Control	6h	2	Control 6h		Control 6h	6h	2	1	2	1		127C	3						82
+124	124	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F4.mzML	pool2	Control	6h	2	Control 6h		Control 6h	6h	2	1	2	1		127C	4						83
+135	135	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F5.mzML	pool2	Control	6h	2	Control 6h		Control 6h	6h	2	1	2	1		127C	5						84
+146	146	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F6.mzML	pool2	Control	6h	2	Control 6h		Control 6h	6h	2	1	2	1		127C	6						85
+157	157	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F7.mzML	pool2	Control	6h	2	Control 6h		Control 6h	6h	2	1	2	1		127C	7						86
+168	168	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F8.mzML	pool2	Control	6h	2	Control 6h		Control 6h	6h	2	1	2	1		127C	8						87
+179	179	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F1.mzML	pool3	Control	6h	3	Control 6h		Control 6h	6h	3	1	3	1		127C	1						88
+190	190	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F2.mzML	pool3	Control	6h	3	Control 6h		Control 6h	6h	3	1	3	1		127C	2						89
+201	201	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F3.mzML	pool3	Control	6h	3	Control 6h		Control 6h	6h	3	1	3	1		127C	3						90
+212	212	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F4.mzML	pool3	Control	6h	3	Control 6h		Control 6h	6h	3	1	3	1		127C	4						91
+223	223	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F5.mzML	pool3	Control	6h	3	Control 6h		Control 6h	6h	3	1	3	1		127C	5						92
+234	234	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F6.mzML	pool3	Control	6h	3	Control 6h		Control 6h	6h	3	1	3	1		127C	6						93
+245	245	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F7.mzML	pool3	Control	6h	3	Control 6h		Control 6h	6h	3	1	3	1		127C	7						94
+256	256	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F8.mzML	pool3	Control	6h	3	Control 6h		Control 6h	6h	3	1	3	1		127C	8						95
+1	1	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F1.mzML	pool1	Light standard		1	Light standard		Light standard		1	1	1	1		126	1						96
+12	12	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F2.mzML	pool1	Light standard		1	Light standard		Light standard		1	1	1	1		126	2						97
+23	23	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F3.mzML	pool1	Light standard		1	Light standard		Light standard		1	1	1	1		126	3						98
+34	34	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F4.mzML	pool1	Light standard		1	Light standard		Light standard		1	1	1	1		126	4						99
+45	45	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F5.mzML	pool1	Light standard		1	Light standard		Light standard		1	1	1	1		126	5						100
+56	56	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F6.mzML	pool1	Light standard		1	Light standard		Light standard		1	1	1	1		126	6						101
+67	67	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F7.mzML	pool1	Light standard		1	Light standard		Light standard		1	1	1	1		126	7						102
+78	78	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F8.mzML	pool1	Light standard		1	Light standard		Light standard		1	1	1	1		126	8						103
+89	89	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F1.mzML	pool2	Light standard		2	Light standard		Light standard		2	1	2	1		126	1						104
+100	100	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F2.mzML	pool2	Light standard		2	Light standard		Light standard		2	1	2	1		126	2						105
+111	111	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F3.mzML	pool2	Light standard		2	Light standard		Light standard		2	1	2	1		126	3						106
+122	122	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F4.mzML	pool2	Light standard		2	Light standard		Light standard		2	1	2	1		126	4						107
+133	133	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F5.mzML	pool2	Light standard		2	Light standard		Light standard		2	1	2	1		126	5						108
+144	144	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F6.mzML	pool2	Light standard		2	Light standard		Light standard		2	1	2	1		126	6						109
+155	155	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F7.mzML	pool2	Light standard		2	Light standard		Light standard		2	1	2	1		126	7						110
+166	166	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F8.mzML	pool2	Light standard		2	Light standard		Light standard		2	1	2	1		126	8						111
+177	177	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F1.mzML	pool3	Light standard		3	Light standard		Light standard		3	1	3	1		126	1						112
+188	188	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F2.mzML	pool3	Light standard		3	Light standard		Light standard		3	1	3	1		126	2						113
+199	199	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F3.mzML	pool3	Light standard		3	Light standard		Light standard		3	1	3	1		126	3						114
+210	210	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F4.mzML	pool3	Light standard		3	Light standard		Light standard		3	1	3	1		126	4						115
+221	221	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F5.mzML	pool3	Light standard		3	Light standard		Light standard		3	1	3	1		126	5						116
+232	232	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F6.mzML	pool3	Light standard		3	Light standard		Light standard		3	1	3	1		126	6						117
+243	243	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F7.mzML	pool3	Light standard		3	Light standard		Light standard		3	1	3	1		126	7						118
+254	254	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F8.mzML	pool3	Light standard		3	Light standard		Light standard		3	1	3	1		126	8						119
+10	10	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F1.mzML	pool1	Norm		1	Norm		Norm		1	1	1	1		131	1						120
+21	21	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F2.mzML	pool1	Norm		1	Norm		Norm		1	1	1	1		131	2						121
+32	32	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F3.mzML	pool1	Norm		1	Norm		Norm		1	1	1	1		131	3						122
+43	43	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F4.mzML	pool1	Norm		1	Norm		Norm		1	1	1	1		131	4						123
+54	54	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F5.mzML	pool1	Norm		1	Norm		Norm		1	1	1	1		131	5						124
+65	65	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F6.mzML	pool1	Norm		1	Norm		Norm		1	1	1	1		131	6						125
+76	76	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F7.mzML	pool1	Norm		1	Norm		Norm		1	1	1	1		131	7						126
+87	87	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F8.mzML	pool1	Norm		1	Norm		Norm		1	1	1	1		131	8						127
+98	98	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F1.mzML	pool2	Norm		2	Norm		Norm		2	1	2	1		131	1						128
+109	109	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F2.mzML	pool2	Norm		2	Norm		Norm		2	1	2	1		131	2						129
+120	120	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F3.mzML	pool2	Norm		2	Norm		Norm		2	1	2	1		131	3						130
+131	131	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F4.mzML	pool2	Norm		2	Norm		Norm		2	1	2	1		131	4						131
+142	142	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F5.mzML	pool2	Norm		2	Norm		Norm		2	1	2	1		131	5						132
+153	153	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F6.mzML	pool2	Norm		2	Norm		Norm		2	1	2	1		131	6						133
+164	164	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F7.mzML	pool2	Norm		2	Norm		Norm		2	1	2	1		131	7						134
+175	175	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F8.mzML	pool2	Norm		2	Norm		Norm		2	1	2	1		131	8						135
+186	186	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F1.mzML	pool3	Norm		3	Norm		Norm		3	1	3	1		131	1						136
+197	197	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F2.mzML	pool3	Norm		3	Norm		Norm		3	1	3	1		131	2						137
+208	208	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F3.mzML	pool3	Norm		3	Norm		Norm		3	1	3	1		131	3						138
+219	219	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F4.mzML	pool3	Norm		3	Norm		Norm		3	1	3	1		131	4						139
+230	230	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F5.mzML	pool3	Norm		3	Norm		Norm		3	1	3	1		131	5						140
+241	241	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F6.mzML	pool3	Norm		3	Norm		Norm		3	1	3	1		131	6						141
+252	252	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F7.mzML	pool3	Norm		3	Norm		Norm		3	1	3	1		131	7						142
+263	263	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F8.mzML	pool3	Norm		3	Norm		Norm		3	1	3	1		131	8						143
+8	8	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F1.mzML	pool1	Virus	10h	1	Virus 10h		Virus 10h	10h	1	1	1	1		130N	1						144
+19	19	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F2.mzML	pool1	Virus	10h	1	Virus 10h		Virus 10h	10h	1	1	1	1		130N	2						145
+30	30	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F3.mzML	pool1	Virus	10h	1	Virus 10h		Virus 10h	10h	1	1	1	1		130N	3						146
+41	41	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F4.mzML	pool1	Virus	10h	1	Virus 10h		Virus 10h	10h	1	1	1	1		130N	4						147
+52	52	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F5.mzML	pool1	Virus	10h	1	Virus 10h		Virus 10h	10h	1	1	1	1		130N	5						148
+63	63	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F6.mzML	pool1	Virus	10h	1	Virus 10h		Virus 10h	10h	1	1	1	1		130N	6						149
+74	74	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F7.mzML	pool1	Virus	10h	1	Virus 10h		Virus 10h	10h	1	1	1	1		130N	7						150
+85	85	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F8.mzML	pool1	Virus	10h	1	Virus 10h		Virus 10h	10h	1	1	1	1		130N	8						151
+96	96	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F1.mzML	pool2	Virus	10h	2	Virus 10h		Virus 10h	10h	2	1	2	1		130N	1						152
+107	107	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F2.mzML	pool2	Virus	10h	2	Virus 10h		Virus 10h	10h	2	1	2	1		130N	2						153
+118	118	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F3.mzML	pool2	Virus	10h	2	Virus 10h		Virus 10h	10h	2	1	2	1		130N	3						154
+129	129	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F4.mzML	pool2	Virus	10h	2	Virus 10h		Virus 10h	10h	2	1	2	1		130N	4						155
+140	140	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F5.mzML	pool2	Virus	10h	2	Virus 10h		Virus 10h	10h	2	1	2	1		130N	5						156
+151	151	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F6.mzML	pool2	Virus	10h	2	Virus 10h		Virus 10h	10h	2	1	2	1		130N	6						157
+162	162	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F7.mzML	pool2	Virus	10h	2	Virus 10h		Virus 10h	10h	2	1	2	1		130N	7						158
+173	173	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F8.mzML	pool2	Virus	10h	2	Virus 10h		Virus 10h	10h	2	1	2	1		130N	8						159
+184	184	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F1.mzML	pool3	Virus	10h	3	Virus 10h		Virus 10h	10h	3	1	3	1		130N	1						160
+195	195	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F2.mzML	pool3	Virus	10h	3	Virus 10h		Virus 10h	10h	3	1	3	1		130N	2						161
+206	206	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F3.mzML	pool3	Virus	10h	3	Virus 10h		Virus 10h	10h	3	1	3	1		130N	3						162
+217	217	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F4.mzML	pool3	Virus	10h	3	Virus 10h		Virus 10h	10h	3	1	3	1		130N	4						163
+228	228	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F5.mzML	pool3	Virus	10h	3	Virus 10h		Virus 10h	10h	3	1	3	1		130N	5						164
+239	239	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F6.mzML	pool3	Virus	10h	3	Virus 10h		Virus 10h	10h	3	1	3	1		130N	6						165
+250	250	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F7.mzML	pool3	Virus	10h	3	Virus 10h		Virus 10h	10h	3	1	3	1		130N	7						166
+261	261	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F8.mzML	pool3	Virus	10h	3	Virus 10h		Virus 10h	10h	3	1	3	1		130N	8						167
+9	9	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F1.mzML	pool1	Virus	24h	1	Virus 24h		Virus 24h	24h	1	1	1	1		130C	1						168
+20	20	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F2.mzML	pool1	Virus	24h	1	Virus 24h		Virus 24h	24h	1	1	1	1		130C	2						169
+31	31	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F3.mzML	pool1	Virus	24h	1	Virus 24h		Virus 24h	24h	1	1	1	1		130C	3						170
+42	42	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F4.mzML	pool1	Virus	24h	1	Virus 24h		Virus 24h	24h	1	1	1	1		130C	4						171
+53	53	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F5.mzML	pool1	Virus	24h	1	Virus 24h		Virus 24h	24h	1	1	1	1		130C	5						172
+64	64	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F6.mzML	pool1	Virus	24h	1	Virus 24h		Virus 24h	24h	1	1	1	1		130C	6						173
+75	75	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F7.mzML	pool1	Virus	24h	1	Virus 24h		Virus 24h	24h	1	1	1	1		130C	7						174
+86	86	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F8.mzML	pool1	Virus	24h	1	Virus 24h		Virus 24h	24h	1	1	1	1		130C	8						175
+97	97	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F1.mzML	pool2	Virus	24h	2	Virus 24h		Virus 24h	24h	2	1	2	1		130C	1						176
+108	108	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F2.mzML	pool2	Virus	24h	2	Virus 24h		Virus 24h	24h	2	1	2	1		130C	2						177
+119	119	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F3.mzML	pool2	Virus	24h	2	Virus 24h		Virus 24h	24h	2	1	2	1		130C	3						178
+130	130	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F4.mzML	pool2	Virus	24h	2	Virus 24h		Virus 24h	24h	2	1	2	1		130C	4						179
+141	141	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F5.mzML	pool2	Virus	24h	2	Virus 24h		Virus 24h	24h	2	1	2	1		130C	5						180
+152	152	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F6.mzML	pool2	Virus	24h	2	Virus 24h		Virus 24h	24h	2	1	2	1		130C	6						181
+163	163	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F7.mzML	pool2	Virus	24h	2	Virus 24h		Virus 24h	24h	2	1	2	1		130C	7						182
+174	174	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F8.mzML	pool2	Virus	24h	2	Virus 24h		Virus 24h	24h	2	1	2	1		130C	8						183
+185	185	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F1.mzML	pool3	Virus	24h	3	Virus 24h		Virus 24h	24h	3	1	3	1		130C	1						184
+196	196	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F2.mzML	pool3	Virus	24h	3	Virus 24h		Virus 24h	24h	3	1	3	1		130C	2						185
+207	207	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F3.mzML	pool3	Virus	24h	3	Virus 24h		Virus 24h	24h	3	1	3	1		130C	3						186
+218	218	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F4.mzML	pool3	Virus	24h	3	Virus 24h		Virus 24h	24h	3	1	3	1		130C	4						187
+229	229	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F5.mzML	pool3	Virus	24h	3	Virus 24h		Virus 24h	24h	3	1	3	1		130C	5						188
+240	240	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F6.mzML	pool3	Virus	24h	3	Virus 24h		Virus 24h	24h	3	1	3	1		130C	6						189
+251	251	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F7.mzML	pool3	Virus	24h	3	Virus 24h		Virus 24h	24h	3	1	3	1		130C	7						190
+262	262	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F8.mzML	pool3	Virus	24h	3	Virus 24h		Virus 24h	24h	3	1	3	1		130C	8						191
+6	6	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F1.mzML	pool1	Virus	2h	1	Virus 2h		Virus 2h	2h	1	1	1	1		129N	1						192
+17	17	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F2.mzML	pool1	Virus	2h	1	Virus 2h		Virus 2h	2h	1	1	1	1		129N	2						193
+28	28	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F3.mzML	pool1	Virus	2h	1	Virus 2h		Virus 2h	2h	1	1	1	1		129N	3						194
+39	39	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F4.mzML	pool1	Virus	2h	1	Virus 2h		Virus 2h	2h	1	1	1	1		129N	4						195
+50	50	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F5.mzML	pool1	Virus	2h	1	Virus 2h		Virus 2h	2h	1	1	1	1		129N	5						196
+61	61	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F6.mzML	pool1	Virus	2h	1	Virus 2h		Virus 2h	2h	1	1	1	1		129N	6						197
+72	72	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F7.mzML	pool1	Virus	2h	1	Virus 2h		Virus 2h	2h	1	1	1	1		129N	7						198
+83	83	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F8.mzML	pool1	Virus	2h	1	Virus 2h		Virus 2h	2h	1	1	1	1		129N	8						199
+94	94	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F1.mzML	pool2	Virus	2h	2	Virus 2h		Virus 2h	2h	2	1	2	1		129N	1						200
+105	105	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F2.mzML	pool2	Virus	2h	2	Virus 2h		Virus 2h	2h	2	1	2	1		129N	2						201
+116	116	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F3.mzML	pool2	Virus	2h	2	Virus 2h		Virus 2h	2h	2	1	2	1		129N	3						202
+127	127	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F4.mzML	pool2	Virus	2h	2	Virus 2h		Virus 2h	2h	2	1	2	1		129N	4						203
+138	138	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F5.mzML	pool2	Virus	2h	2	Virus 2h		Virus 2h	2h	2	1	2	1		129N	5						204
+149	149	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F6.mzML	pool2	Virus	2h	2	Virus 2h		Virus 2h	2h	2	1	2	1		129N	6						205
+160	160	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F7.mzML	pool2	Virus	2h	2	Virus 2h		Virus 2h	2h	2	1	2	1		129N	7						206
+171	171	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F8.mzML	pool2	Virus	2h	2	Virus 2h		Virus 2h	2h	2	1	2	1		129N	8						207
+182	182	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F1.mzML	pool3	Virus	2h	3	Virus 2h		Virus 2h	2h	3	1	3	1		129N	1						208
+193	193	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F2.mzML	pool3	Virus	2h	3	Virus 2h		Virus 2h	2h	3	1	3	1		129N	2						209
+204	204	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F3.mzML	pool3	Virus	2h	3	Virus 2h		Virus 2h	2h	3	1	3	1		129N	3						210
+215	215	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F4.mzML	pool3	Virus	2h	3	Virus 2h		Virus 2h	2h	3	1	3	1		129N	4						211
+226	226	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F5.mzML	pool3	Virus	2h	3	Virus 2h		Virus 2h	2h	3	1	3	1		129N	5						212
+237	237	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F6.mzML	pool3	Virus	2h	3	Virus 2h		Virus 2h	2h	3	1	3	1		129N	6						213
+248	248	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F7.mzML	pool3	Virus	2h	3	Virus 2h		Virus 2h	2h	3	1	3	1		129N	7						214
+259	259	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F8.mzML	pool3	Virus	2h	3	Virus 2h		Virus 2h	2h	3	1	3	1		129N	8						215
+7	7	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F1.mzML	pool1	Virus	6h	1	Virus 6h		Virus 6h	6h	1	1	1	1		129C	1						216
+18	18	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F2.mzML	pool1	Virus	6h	1	Virus 6h		Virus 6h	6h	1	1	1	1		129C	2						217
+29	29	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F3.mzML	pool1	Virus	6h	1	Virus 6h		Virus 6h	6h	1	1	1	1		129C	3						218
+40	40	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F4.mzML	pool1	Virus	6h	1	Virus 6h		Virus 6h	6h	1	1	1	1		129C	4						219
+51	51	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F5.mzML	pool1	Virus	6h	1	Virus 6h		Virus 6h	6h	1	1	1	1		129C	5						220
+62	62	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F6.mzML	pool1	Virus	6h	1	Virus 6h		Virus 6h	6h	1	1	1	1		129C	6						221
+73	73	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F7.mzML	pool1	Virus	6h	1	Virus 6h		Virus 6h	6h	1	1	1	1		129C	7						222
+84	84	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F8.mzML	pool1	Virus	6h	1	Virus 6h		Virus 6h	6h	1	1	1	1		129C	8						223
+95	95	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F1.mzML	pool2	Virus	6h	2	Virus 6h		Virus 6h	6h	2	1	2	1		129C	1						224
+106	106	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F2.mzML	pool2	Virus	6h	2	Virus 6h		Virus 6h	6h	2	1	2	1		129C	2						225
+117	117	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F3.mzML	pool2	Virus	6h	2	Virus 6h		Virus 6h	6h	2	1	2	1		129C	3						226
+128	128	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F4.mzML	pool2	Virus	6h	2	Virus 6h		Virus 6h	6h	2	1	2	1		129C	4						227
+139	139	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F5.mzML	pool2	Virus	6h	2	Virus 6h		Virus 6h	6h	2	1	2	1		129C	5						228
+150	150	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F6.mzML	pool2	Virus	6h	2	Virus 6h		Virus 6h	6h	2	1	2	1		129C	6						229
+161	161	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F7.mzML	pool2	Virus	6h	2	Virus 6h		Virus 6h	6h	2	1	2	1		129C	7						230
+172	172	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F8.mzML	pool2	Virus	6h	2	Virus 6h		Virus 6h	6h	2	1	2	1		129C	8						231
+183	183	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F1.mzML	pool3	Virus	6h	3	Virus 6h		Virus 6h	6h	3	1	3	1		129C	1						232
+194	194	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F2.mzML	pool3	Virus	6h	3	Virus 6h		Virus 6h	6h	3	1	3	1		129C	2						233
+205	205	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F3.mzML	pool3	Virus	6h	3	Virus 6h		Virus 6h	6h	3	1	3	1		129C	3						234
+216	216	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F4.mzML	pool3	Virus	6h	3	Virus 6h		Virus 6h	6h	3	1	3	1		129C	4						235
+227	227	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F5.mzML	pool3	Virus	6h	3	Virus 6h		Virus 6h	6h	3	1	3	1		129C	5						236
+238	238	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F6.mzML	pool3	Virus	6h	3	Virus 6h		Virus 6h	6h	3	1	3	1		129C	6						237
+249	249	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F7.mzML	pool3	Virus	6h	3	Virus 6h		Virus 6h	6h	3	1	3	1		129C	7						238
+260	260	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F8.mzML	pool3	Virus	6h	3	Virus 6h		Virus 6h	6h	3	1	3	1		129C	8						239
+11	11	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F1.mzML	pool1	heavy standard		1	heavy standard		heavy standard		1	1	1	1		131C	1						240
+22	22	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F2.mzML	pool1	heavy standard		1	heavy standard		heavy standard		1	1	1	1		131C	2						241
+33	33	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F3.mzML	pool1	heavy standard		1	heavy standard		heavy standard		1	1	1	1		131C	3						242
+44	44	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F4.mzML	pool1	heavy standard		1	heavy standard		heavy standard		1	1	1	1		131C	4						243
+55	55	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F5.mzML	pool1	heavy standard		1	heavy standard		heavy standard		1	1	1	1		131C	5						244
+66	66	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F6.mzML	pool1	heavy standard		1	heavy standard		heavy standard		1	1	1	1		131C	6						245
+77	77	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F7.mzML	pool1	heavy standard		1	heavy standard		heavy standard		1	1	1	1		131C	7						246
+88	88	MSV000085096	20200219_KKL_SARS_CoV2_pool1_F8.mzML	pool1	heavy standard		1	heavy standard		heavy standard		1	1	1	1		131C	8						247
+99	99	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F1.mzML	pool2	heavy standard		2	heavy standard		heavy standard		2	1	2	1		131C	1						248
+110	110	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F2.mzML	pool2	heavy standard		2	heavy standard		heavy standard		2	1	2	1		131C	2						249
+121	121	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F3.mzML	pool2	heavy standard		2	heavy standard		heavy standard		2	1	2	1		131C	3						250
+132	132	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F4.mzML	pool2	heavy standard		2	heavy standard		heavy standard		2	1	2	1		131C	4						251
+143	143	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F5.mzML	pool2	heavy standard		2	heavy standard		heavy standard		2	1	2	1		131C	5						252
+154	154	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F6.mzML	pool2	heavy standard		2	heavy standard		heavy standard		2	1	2	1		131C	6						253
+165	165	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F7.mzML	pool2	heavy standard		2	heavy standard		heavy standard		2	1	2	1		131C	7						254
+176	176	MSV000085096	20200219_KKL_SARS_CoV2_pool2_F8.mzML	pool2	heavy standard		2	heavy standard		heavy standard		2	1	2	1		131C	8						255
+187	187	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F1.mzML	pool3	heavy standard		3	heavy standard		heavy standard		3	1	3	1		131C	1						256
+198	198	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F2.mzML	pool3	heavy standard		3	heavy standard		heavy standard		3	1	3	1		131C	2						257
+209	209	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F3.mzML	pool3	heavy standard		3	heavy standard		heavy standard		3	1	3	1		131C	3						258
+220	220	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F4.mzML	pool3	heavy standard		3	heavy standard		heavy standard		3	1	3	1		131C	4						259
+231	231	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F5.mzML	pool3	heavy standard		3	heavy standard		heavy standard		3	1	3	1		131C	5						260
+242	242	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F6.mzML	pool3	heavy standard		3	heavy standard		heavy standard		3	1	3	1		131C	6						261
+253	253	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F7.mzML	pool3	heavy standard		3	heavy standard		heavy standard		3	1	3	1		131C	7						262
+264	264	MSV000085096	20200219_KKL_SARS_CoV2_pool3_F8.mzML	pool3	heavy standard		3	heavy standard		heavy standard		3	1	3	1		131C	8						263
