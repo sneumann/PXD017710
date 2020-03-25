@@ -1,8 +1,8 @@
 ONTOLOGY SOURCE REFERENCE
-Term Source Name	"EFO"	"OBI"	"UO"	
-Term Source File	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/UO"	
-Term Source Version	"113"	"21"	"42"	
-Term Source Description	"Experimental Factor Ontology"	"Ontology for Biomedical Investigations"	"Units of Measurement Ontology"	
+Term Source Name	"EFO"	"OBI"	"UO"	"MS"	
+Term Source File	"http://data.bioontology.org/ontologies/EFO"	"http://data.bioontology.org/ontologies/OBI"	"http://data.bioontology.org/ontologies/UO"	"http://data.bioontology.org/ontologies/MS"	
+Term Source Version	"113"	"21"	"42"	"86"	
+Term Source Description	"Experimental Factor Ontology"	"Ontology for Biomedical Investigations"	"Units of Measurement Ontology"	"Mass Spectrometry Ontology"	
 INVESTIGATION
 Investigation Identifier	"1585161768166"
 Investigation Title	"Investigation"
