@@ -15,10 +15,12 @@ and [MassIVE/CCMS Maestro+MSstats reanalysis of MSV000085096 / PXD017710](https:
 The formatting and reannotation are based on information extracted from:
 - the original publication
 - the supplementary tables available from the publishers site
-- the 'filtered-results.csv' helper file as supplied to @sneumann during the [HUPO-PSI]()
+- the 'filtered-results.csv' helper file as supplied to @sneumann during the [HUPO-PSI](http://www.psidev.info/hupo-psi-meeting-2020)
 
 
-The default ISA configuration from https://isa-tools.org/format/configurations/index.html was used for validation.
+Viewing the ISA-tab formatted PXD017710 with [ISATab-Viewer](http://sneumann.github.io/ISATab-Viewer/isaviewer-demo.html)
+
+
 
 ### Task performed:
 
@@ -42,7 +44,24 @@ The default ISA configuration from https://isa-tools.org/format/configurations/i
 
 
  2. SARS-Cov2 isolate: no clear NCBI Taxonomic anchoring and unclear origin.
+ 
+### validation with ISA API:
 
+The default ISA configuration from https://isa-tools.org/format/configurations/index.html was used for validation.
+
+Code snipet showing how to invoke the python ISA validator from the [isatools API](https://pypi.org/project/isatools/)
+
+
+``` python
+import isatools
+import os
+from isatools import isatab
+
+my_json_report = isatab.validate(open(os.path.join('PXD017710', 'i_PXD017710.txt')))
+
+print(my_json_report)
+
+```
 
 
 ----
