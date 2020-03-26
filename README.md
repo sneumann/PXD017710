@@ -18,7 +18,7 @@ The formatting and reannotation are based on information extracted from:
 - the 'filtered-results.csv' helper file as supplied to @sneumann during the [HUPO-PSI](http://www.psidev.info/hupo-psi-meeting-2020)
 
 
-Viewing the ISA-tab formatted PXD017710 with [ISATab-Viewer](https://sneumann.github.io/PXD017710/isaviewer-demo.html)
+Viewing the ISA-tab formatted PXD017710 with [ISATab-Viewer](https://isatools.github.io/PXD017710/isaviewer-demo.html)
 
 
 
