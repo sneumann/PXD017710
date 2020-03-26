@@ -1,8 +1,8 @@
-# ISA-Tab annotation for the  "SARS-CoV-2 infected host cell proteomics reveal potential therapy targets" publication
+# ISA-Tab annotation for the  ["SARS-CoV-2 infected host cell proteomics reveal potential therapy targets" publication](https://dx.doi.org/10.21203/rs.3.rs-17218/v1)
 
 This is part of an effort to (re-)annotate
 
-https://dx.doi.org/10.21203/rs.3.rs-17218/v1
+[https://dx.doi.org/10.21203/rs.3.rs-17218/v1](https://dx.doi.org/10.21203/rs.3.rs-17218/v1)
 
 ## Proteomics data
 
