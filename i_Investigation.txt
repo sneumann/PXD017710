@@ -4,7 +4,7 @@ Term Source File	http://data.bioontology.org/ontologies/EFO	http://data.bioontol
 Term Source Version	113	21	42	86			
 Term Source Description	Experimental Factor Ontology	Ontology for Biomedical Investigations	Units of Measurement Ontology	Mass Spectrometry Ontology	Cell Line Ontology	NCBITaxonomy	Human Phenotype Ontology
 INVESTIGATION							
-Investigation Identifier	1.58516E+12						
+Investigation Identifier	1.59E+12						
 Investigation Title	Investigation						
 Investigation Description							
 Investigation Submission Date							
@@ -60,10 +60,10 @@ Study Publication Status	published
 Study Publication Status Term Accession Number							
 Study Publication Status Term Source REF							
 STUDY FACTORS							
-Study Factor Name	biological agent	Timepoint	Replicate				
-Study Factor Type	treatment	timepoint	biological replicate				
-Study Factor Type Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0000727	http://www.ebi.ac.uk/efo/EFO_0000724	http://www.ebi.ac.uk/efo/EFO_0002091				
-Study Factor Type Term Source REF	EFO	EFO	EFO				
+Study Factor Name	biological agent	dose	Timepoint	Replicate			
+Study Factor Type	treatment	dose	timepoint	biological replicate			
+Study Factor Type Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0000727		http://www.ebi.ac.uk/efo/EFO_0000724	http://www.ebi.ac.uk/efo/EFO_0002091			
+Study Factor Type Term Source REF	EFO		EFO	EFO			
 STUDY ASSAYS							
 Study Assay File Name	a_pxd017710_protein_expression_profiling_mass_spectrometry.txt						
 Study Assay Measurement Type	protein expression profiling						
