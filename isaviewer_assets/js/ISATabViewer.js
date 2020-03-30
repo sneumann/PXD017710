@@ -27,7 +27,10 @@ hashCode = function (s) {
     }, 0);
 }
 
+
+
 ISATabViewer.rendering = {
+
 
     /*
      * Renders ISATab given an investigation url which is retrieved and processed and options to configure the display
@@ -105,7 +108,7 @@ ISATabViewer.rendering = {
         return ISATabViewer.investigation;
     },
 
-
+    
     /**
      * Processes each line of the investigation file.
      *
@@ -231,7 +234,11 @@ ISATabViewer.rendering = {
 
                     console.log(file_data.div);
                     // we will be breaking things down in to investigation, study and assays. Then rendering everything at the end.
+
+                    
                     var xmlDoc = $.parseXML(file_data.div);
+
+
 
                     var filename = file_data.files[0];
 
@@ -349,6 +356,8 @@ ISATabViewer.rendering = {
         //if (ISATabViewer.rendering.is_empty_investigation())
             ISATabViewer.rendering.render_study(studies[0].id, studies[0].hash);
     },
+
+
 
     set_active_list_item: function (study_id_hash) {
 
@@ -569,9 +578,12 @@ ISATabViewer.rendering = {
                 ISATabViewer.investigation.STUDY = [];
                 investigation = ISATabViewer.rendering.process_file(investigation_file, file, placement);
                 //invCallBack(investigation);
+                // $("#zipbutton").html('<a href="investigation_file" class="btn btn-green" >Get The zipped archive</span>');
             }
         });
     },
+
+
 
     create_study_template: function () {
         return {
